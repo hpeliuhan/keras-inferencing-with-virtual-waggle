@@ -1,0 +1,9 @@
+git+https://github.com/waggle-sensor/pywaggle@v0.39.1
+
+
+keras
+Pillow
+numpy
+tensorflow
+matplotlib
+
